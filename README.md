@@ -26,6 +26,12 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a>
 
 <h2>Novedades</h2>
+<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>05-Octubre-2015</a>:</b>
+<p>
+<ul>
+<li>Actualizada la <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VVBOUElXUV91Z28&export=download'>documentación de la versión 2.4.5</a> con una revisión de la guía de desarrollo de web services.</li>
+</ul></p>
+<br>
 <b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>24-Abril-2015</a>:</b>
 <p>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list'>descargas</a>:<br>
