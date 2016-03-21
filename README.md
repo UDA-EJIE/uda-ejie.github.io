@@ -41,7 +41,10 @@ Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
 <li>Correción de bugs detectados en la versión anterior de los componentes</li>
-<li>Nueva funcionalidad para un modelo de autorización basado en base de datos</li>
+<li>Componente botonera: Utilizar un dropdown como mButton</li>
+<li>Componente pestañas: Mostrar un tooltip cuando se recorta el literal del título de la pestaña</li>
+<li>Componente tabla: Mostrar la tabla en una página concreta </li>
+<li>Logging: Modificación del nivel de log en caliente</li>
 </ul>
 
 En la sección UDA v2.4.6 (21-Marzo-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NnJEWkFsYkNlbVU&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
