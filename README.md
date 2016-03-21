@@ -26,31 +26,25 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a>
 
 <h2>Novedades</h2>
-<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>05-Octubre-2015</a>:</b>
-<p>
-<ul>
-<li>Actualizada la <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VVBOUElXUV91Z28&export=download'>documentación de la versión 2.4.5</a> con una revisión de la guía de desarrollo de web services.</li>
-</ul></p>
-<br>
-<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>24-Abril-2015</a>:</b>
+<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>21-Marzo-2016</a>:</b>
 <p>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list'>descargas</a>:<br>
 <ul>
-<li>Librería de utilidades comunes <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_U3NwbHhnbG5vMXM&export=download'>x38ShLibClasses-2.4.5-RELEASE.jar</a></li>
-<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_RUtDU3pSLVZ5Smc&export=download'>Plantillas (v2.4.5)</a></li>
-<li>Componentes visuales <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_U3A5dXNzM1dfMkU&export=download'>Componentes RUP (v2.4.5)</a></li>
-<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TEllbWM4ZXcxTFk&export=download'>Repositorio Maven</a></li>
-<li>Eclipse IDE configurado con las nuevas plantillas: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TDIybWVPaEJBS0E&export=download'>Eclipse Helios UDA (v2.4.5)</a></li>
+<li>Librería de utilidades comunes <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_LXAyTnpzWkVjZXM&export=download'>x38ShLibClasses-2.4.6-RELEASE.jar</a></li>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QV9YMVFXcVBRTXc&export=download'>Plantillas (v2.4.6)</a></li>
+<li>Componentes visuales <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YjZjaXhkenBxcWM&export=download'>Componentes RUP (v2.4.6)</a></li>
+<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NDVVVUZjaE1TSUU&export=download'>Repositorio Maven</a></li>
+<li>Eclipse IDE configurado con las nuevas plantillas: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_RWdUbk5ib3g5MDA&export=download'>Eclipse Helios UDA (v2.4.6)</a></li>
+<li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
 </ul>
 
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
 <li>Correción de bugs detectados en la versión anterior de los componentes</li>
-<li>Nueva funcionalidad en el mantenimiento que permite guardar filtros personalizados por usuario</li>
-<li>Nuevos eventos en el autocomplete, migas, tabla </li>
+<li>Nueva funcionalidad para un modelo de autorización basado en base de datos</li>
 </ul>
 
-En la sección UDA v2.4.5 (24-Abril-2015) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NnJEWkFsYkNlbVU&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
+En la sección UDA v2.4.6 (21-Marzo-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NnJEWkFsYkNlbVU&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
 <br>
 La <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TnhuN2k1bElmTFU&export=download'>máquina virtual</a> configurada con el entorno completo sobre la versión 2.4.4 sigue estando disponible en caso de necesitar una maqueta de entorno completo.<br>
 <br>
