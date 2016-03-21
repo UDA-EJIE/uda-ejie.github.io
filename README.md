@@ -47,7 +47,7 @@ En esta versión se han realizado las siguientes mejoras:<br>
 <li>Logging: Modificación del nivel de log en caliente</li>
 </ul>
 
-En la sección UDA v2.4.6 (21-Marzo-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NnJEWkFsYkNlbVU&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
+En la sección UDA v2.4.6 (21-Marzo-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_ZnVEa05mRzhUU2c&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
 <br>
 La <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TnhuN2k1bElmTFU&export=download'>máquina virtual</a> configurada con el entorno completo sobre la versión 2.4.4 sigue estando disponible en caso de necesitar una maqueta de entorno completo.<br>
 <br>
