@@ -31,10 +31,10 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list'>descargas</a>:<br>
 <ul>
 <li>Librería de utilidades comunes <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_LXAyTnpzWkVjZXM&export=download'>x38ShLibClasses-2.4.6-RELEASE.jar</a></li>
-<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QV9YMVFXcVBRTXc&export=download'>Plantillas (v2.4.6)</a></li>
-<li>Componentes visuales <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YjZjaXhkenBxcWM&export=download'>Componentes RUP (v2.4.6)</a></li>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_N1JoWHBQd1VXV0E&export=download'>Plantillas (v2.4.6)</a></li>
+<li>Componentes visuales <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_SEw3VE1wQzNzSlk&export=download'>Componentes RUP (v2.4.6)</a></li>
 <li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NDVVVUZjaE1TSUU&export=download'>Repositorio Maven</a></li>
-<li>Eclipse IDE configurado con las nuevas plantillas: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_RWdUbk5ib3g5MDA&export=download'>Eclipse Helios UDA (v2.4.6)</a></li>
+<li>Eclipse IDE configurado con las nuevas plantillas: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TGhXZk5xSXpMbUU&export=download'>Eclipse Helios UDA (v2.4.6)</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
 </ul>
 
