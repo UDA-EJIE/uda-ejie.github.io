@@ -26,7 +26,6 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a>
 
 <h2>Novedades</h2>
-<h2>Novedades</h2>
 <b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>31-Mayo-2016</a>:</b>
 <p>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list'>descargas</a>:<br>
