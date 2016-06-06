@@ -34,14 +34,15 @@ Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2
 <li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OFdMX0llYlc5VDg&export=download'>Plantillas (v2.4.7)</a></li>
 <li>Componentes visuales <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NzdTS0d6R0w0OXM&export=download'>Componentes RUP (v2.4.7)</a></li>
 <li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzVPQWp1YWl1ZDQ&export=download'>Repositorio Maven</a></li>
+<li>Eclipse IDE configurado con las nuevas plantillas: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_ald2N2ZCUk85RXc&export=download'>Eclipse Helios UDA (v2.4.7)</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
 </ul>
 
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av.2.4.7+label%3Abug'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av.2.4.7+label%3Aenhancement'>Nuevos eventos sobre rup.table y rup.tabs</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaLib/issues?q=is%3Aissue+label%3Abug'>Security:</a> Corrección para mostrar el usuario conectado cuando el puesto tiene más de una persona asignada</li>
+<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av.2.4.7+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
+<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av.2.4.7+label%3Aenhancement' target='_blank'>Nuevos eventos sobre rup.table y rup.tabs</a></li>
+<li><a href='https://github.com/UDA-EJIE/udaLib/issues?q=is%3Aissue+label%3Abug' target='_blank'>Security:</a> Corrección para mostrar el usuario conectado cuando el puesto tiene más de una persona asignada</li>
 </ul>
 
 <br>
