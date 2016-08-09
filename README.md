@@ -26,24 +26,25 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a>
 
 <h2>Novedades</h2>
-<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>31-Mayo-2016</a>:</b>
+<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>9-Agosto-2016</a>:</b>
 <p>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list'>descargas</a>:<br>
 <ul>
-<li>Librería de utilidades comunes <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dUxGLXhXWTdhUlE&export=download'>x38ShLibClasses-2.4.7-RELEASE.jar</a></li>
-<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OFdMX0llYlc5VDg&export=download'>Plantillas (v2.4.7)</a></li>
-<li>Componentes visuales <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NzdTS0d6R0w0OXM&export=download'>Componentes RUP (v2.4.7)</a></li>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dWZjak5UYmRpUk0&export=download'>Plantillas (v2.4.8)</a></li>
+<li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OWZrTnZUMnIySGc&export=download'>Componentes RUP (v2.4.8)</a></li>
+<li>Asistente de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YkEyZUlEb1dvRnM&export=download'>Plugin UDA (v2.4.8)</a></li>
+<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OXlHMFJwb2ROU28&export=download'>Eclipse Helios UDA (v2.4.8)</a></li>
+<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dUxGLXhXWTdhUlE&export=download'>x38ShLibClasses-2.4.7-RELEASE.jar</a></li>
 <li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzVPQWp1YWl1ZDQ&export=download'>Repositorio Maven</a></li>
-<li>Eclipse IDE configurado con las nuevas plantillas: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_ald2N2ZCUk85RXc&export=download'>Eclipse Helios UDA (v2.4.7)</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
 </ul>
 
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av.2.4.7+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av.2.4.7+label%3Aenhancement' target='_blank'>Nuevos eventos sobre rup.table y rup.tabs</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaLib/issues?q=is%3Aissue+label%3Abug' target='_blank'>Security:</a> Corrección para mostrar el usuario conectado cuando el puesto tiene más de una persona asignada</li>
+<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.8+label%3Abug' target='_new'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
+<li><a href='https://github.com/UDA-EJIE/udaPlugin/issues?q=milestone%3Av2.4.8' target='_new'>Plugin UDA: </a>Adecuación de la cadena de conexión a base de datos usando Service Name</li>
 </ul>
+En la sección UDA v2.4.8 (09-Agosto-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TFMxZFVrMFJDQVk&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
 
 <br>
 La <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TnhuN2k1bElmTFU&export=download'>máquina virtual</a> configurada con el entorno completo sobre la versión 2.4.4 sigue estando disponible en caso de necesitar una maqueta de entorno completo.<br>
