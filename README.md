@@ -28,7 +28,7 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <h2>Novedades</h2>
 <b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>9-Agosto-2016</a>:</b>
 <p>
-Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list'>descargas</a>:<br>
+Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list' target='_blank'>descargas</a>:<br>
 <ul>
 <li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dWZjak5UYmRpUk0&export=download'>Plantillas (v2.4.8)</a></li>
 <li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OWZrTnZUMnIySGc&export=download'>Componentes RUP (v2.4.8)</a></li>
@@ -41,15 +41,15 @@ Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2
 
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.8+label%3Abug' target='_new'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaPlugin/issues?q=milestone%3Av2.4.8' target='_new'>Plugin UDA: </a>Adecuación de la cadena de conexión a base de datos usando Service Name</li>
+<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.8+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
+<li><a href='https://github.com/UDA-EJIE/udaPlugin/issues?q=milestone%3Av2.4.8' target='_blank'>Plugin UDA: </a>Adecuación de la cadena de conexión a base de datos usando Service Name</li>
 </ul>
 En la sección UDA v2.4.8 (09-Agosto-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TFMxZFVrMFJDQVk&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
 
 <br>
 La <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TnhuN2k1bElmTFU&export=download'>máquina virtual</a> configurada con el entorno completo sobre la versión 2.4.4 sigue estando disponible en caso de necesitar una maqueta de entorno completo.<br>
 <br>
-<i>Puedes encontrar la información sobre los productos liberados anteriormente en el apartado <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Versiones'>Versiones</a></i>
+<i>Puedes encontrar la información sobre los productos liberados anteriormente en el apartado <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Versiones' target='_blank'>Versiones</a></i>
 <br>
 
 <h2>Actualizaciones y mejoras</h2>
