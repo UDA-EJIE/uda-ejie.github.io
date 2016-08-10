@@ -30,10 +30,10 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <p>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list' target='_blank'>descargas</a>:<br>
 <ul>
-<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dWZjak5UYmRpUk0&export=download'>Plantillas (v2.4.8)</a></li>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_b3dWblVzVTJOT0E&export=download'>Plantillas (v2.4.8)</a></li>
 <li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OWZrTnZUMnIySGc&export=download'>Componentes RUP (v2.4.8)</a></li>
 <li>Asistente de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YkEyZUlEb1dvRnM&export=download'>Plugin UDA (v2.4.8)</a></li>
-<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OXlHMFJwb2ROU28&export=download'>Eclipse Helios UDA (v2.4.8)</a></li>
+<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_eng5RmV1YTk3Z1E&export=download'>Eclipse Helios UDA (v2.4.8)</a></li>
 <li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dUxGLXhXWTdhUlE&export=download'>x38ShLibClasses-2.4.7-RELEASE.jar</a></li>
 <li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzVPQWp1YWl1ZDQ&export=download'>Repositorio Maven</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
