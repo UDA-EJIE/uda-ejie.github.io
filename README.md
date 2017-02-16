@@ -26,25 +26,25 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a>
 
 <h2>Novedades</h2>
-<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>9-Agosto-2016</a>:</b>
+<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>16-Febrero-2017</a>:</b>
 <p>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list' target='_blank'>descargas</a>:<br>
 <ul>
-<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_b3dWblVzVTJOT0E&export=download'>Plantillas (v2.4.8)</a></li>
-<li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_OWZrTnZUMnIySGc&export=download'>Componentes RUP (v2.4.8)</a></li>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NXNqUGFjZkhPUFE&export=download'>Plantillas (v2.4.9)</a></li>
+<li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YWZtR0ZjcDlubFk&export=download'>Componentes RUP (v2.4.9)</a></li>
 <li>Asistente de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YkEyZUlEb1dvRnM&export=download'>Plugin UDA (v2.4.8)</a></li>
-<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_eng5RmV1YTk3Z1E&export=download'>Eclipse Helios UDA (v2.4.8)</a></li>
-<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dUxGLXhXWTdhUlE&export=download'>x38ShLibClasses-2.4.7-RELEASE.jar</a></li>
-<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzVPQWp1YWl1ZDQ&export=download'>Repositorio Maven</a></li>
+<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_cDFCaUJWOUI2Zk0&export=download'>Eclipse Helios UDA (v2.4.9)</a></li>
+<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzYzeGV1MEltM1U&export=download'>x38ShLibClasses-2.4.8-RELEASE.jar</a></li>
+<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_MHZtUkNtZ2ZOVkE&export=download'>Repositorio Maven (v2.4.8)</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
 </ul>
 
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.8+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaPlugin/issues?q=milestone%3Av2.4.8' target='_blank'>Plugin UDA: </a>Adecuación de la cadena de conexión a base de datos usando Service Name</li>
+<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.9+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
+<li><a href='https://github.com/UDA-EJIE/udaPlugin/issues?q=milestone%3Av2.4.8' target='_blank'>Librería de utilidades: </a>Correcciones para mantener la compatibilidad con toda las versiones 2.X.X y control de autenticación y autorización en las peticiones XHR</li>
 </ul>
-En la sección UDA v2.4.8 (09-Agosto-2016) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TFMxZFVrMFJDQVk&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
+En la sección UDA v2.4.9 (16-Febrero-2017) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QVZhLUM0QlFxOGc&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
 
 <br>
 La <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TnhuN2k1bElmTFU&export=download'>máquina virtual</a> configurada con el entorno completo sobre la versión 2.4.4 sigue estando disponible en caso de necesitar una maqueta de entorno completo.<br>
