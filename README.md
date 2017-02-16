@@ -34,7 +34,7 @@ Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2
 <li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YWZtR0ZjcDlubFk&export=download'>Componentes RUP (v2.4.9)</a></li>
 <li>Asistente de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YkEyZUlEb1dvRnM&export=download'>Plugin UDA (v2.4.8)</a></li>
 <li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_cDFCaUJWOUI2Zk0&export=download'>Eclipse Helios UDA (v2.4.9)</a></li>
-<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzYzeGV1MEltM1U&export=download'>x38ShLibClasses-2.4.8-RELEASE.jar</a></li>
+<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzYzeGV1MEltM1U&export=download'>x38ShLibClasses-v2.4.8-RELEASE.jar</a></li>
 <li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_MHZtUkNtZ2ZOVkE&export=download'>Repositorio Maven (v2.4.8)</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
 </ul>
@@ -42,7 +42,7 @@ Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
 <li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.9+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaPlugin/issues?q=milestone%3Av2.4.8' target='_blank'>Librería de utilidades: </a>Correcciones para mantener la compatibilidad con toda las versiones 2.X.X y control de autenticación y autorización en las peticiones XHR</li>
+<li><a href='https://github.com/UDA-EJIE/udaLib/issues?q=milestone%3Av2.4.8' target='_blank'>Librería de utilidades: </a>Correcciones para mantener la compatibilidad con toda las versiones 2.X.X y control de autenticación y autorización en las peticiones XHR</li>
 </ul>
 En la sección UDA v2.4.9 (16-Febrero-2017) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QVZhLUM0QlFxOGc&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
 
