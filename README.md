@@ -26,25 +26,53 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a>
 
 <h2>Novedades</h2>
-<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>16-Febrero-2017</a>:</b>
-<p>
+
+<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar'>24-Febrero-2017</a>:</b>
+<h4>UDA 3.0.0 - Versión RWD</h4>
 Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list' target='_blank'>descargas</a>:<br>
 <ul>
-<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NXNqUGFjZkhPUFE&export=download'>Plantillas (v2.4.9)</a></li>
-<li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YWZtR0ZjcDlubFk&export=download'>Componentes RUP (v2.4.9)</a></li>
-<li>Asistente de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YkEyZUlEb1dvRnM&export=download'>Plugin UDA (v2.4.8)</a></li>
-<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_cDFCaUJWOUI2Zk0&export=download'>Eclipse Helios UDA (v2.4.9)</a></li>
-<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_dzYzeGV1MEltM1U&export=download'>x38ShLibClasses-v2.4.8-RELEASE.jar</a></li>
-<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_MHZtUkNtZ2ZOVkE&export=download'>Repositorio Maven (v2.4.8)</a></li>
-<li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación actualizada</a></li>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TmlxTUw5bndBMW8&export=download'>Plantillas (v3.0.0)</a></li>
+<li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_NEV3RlN4eFVBZ1k&export=download'>Componentes RUP (v3.0.0)</a></li>
+<li>Asistente de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_UkZ0N3lxbDVKYkE&export=download'>Plugin UDA (v3.0.0)</a></li>
+<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_M09pS2NuTlptVjQ&export=download'>Eclipse Neon UDA (v3.0.0)</a></li>
+<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_T0sxbWV5eUV4THM&export=download'>x38ShLibClasses-v3.0.0-RELEASE.jar</a></li>
+<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_Zk8xSnhWRkRVVkE&export=download'>Repositorio Maven (v3.0.0)</a></li>
 </ul>
 
+Esta versión supone una ruptura de la línea 2.x.x. Se incluirán documentos de migración para aquellas aplicaciones que quieran actualizarse a esta versión.<br>Los cambios realizados son los siguientes:<br>
+<ul>
+Servidor
+<ul><li><a href='https://drive.google.com/open?id=0B2jWuJHnBpz_ZERFM2lscXBYZ2s&usp=sharing#list' target='_blank'>Oracle Weblogic Server 10.3.6</a></li></ul>
+IDE
+<ul><li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_M09pS2NuTlptVjQ&export=download'>Eclipse Neon.1</a>: Incluye los plugins OEPE, Hibernate Tools, Subversive y plugin UDA</li></ul>
+Actualización de tecnologías de backend:
+<ul><li>Spring Framework 3.2.17</li>
+<li>Spring Security 3.2.9</li>
+<li>Jackson 2.6.5</li></ul>
+Actualización de tecnologías de frontend:
+<ul><li>Bootstrap 4.0.0</li>
+<li>jQuery 1.12.4</li>
+<li>jQueryUI 1.12.0</li></ul>
+</ul>
+Para ampliar informacíon revisar la lista de cambios realizados en esta versión en el <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QVZhLUM0QlFxOGc&export=download'>ChangeLog.txt</a><br>
+<br>
+<h4>UDA 2.4.9 - Version legacy:</h4>
+Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2jWuJHnBpz_OWc3bnlUV1RLUDg&usp=sharing#list' target='_blank'>descargas</a>:<br>
+<ul>
+<li>Plantillas de generación de código: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_eEZLVDJ2cmRPWms&export=download'>Plantillas (v2.4.9)</a></li>
+<li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YWZtR0ZjcDlubFk&export=download'>Componentes RUP (v2.4.9)</a></li>
+<li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_SVF1a04xMmNWVE0&export=download'>Eclipse Helios UDA (v2.4.9)</a></li>
+<li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_djBUZ1NjTFdUSFE&export=download'>x38ShLibClasses-v2.4.9-RELEASE.jar</a></li>
+<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=&export=download'>Repositorio Maven (v2.4.9)</a></li>
+<li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación</a></li>
+</ul>
 En esta versión se han realizado las siguientes mejoras:<br>
 <ul>
-<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.9+label%3Abug' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
-<li><a href='https://github.com/UDA-EJIE/udaLib/issues?q=milestone%3Av2.4.8' target='_blank'>Librería de utilidades: </a>Correcciones para mantener la compatibilidad con toda las versiones 2.X.X y control de autenticación y autorización en las peticiones XHR</li>
+<li><a href='https://github.com/UDA-EJIE/udaRUP/issues?q=milestone%3Av2.4.9' target='_blank'>Correción de bugs detectados en la versión anterior de los componentes</a></li>
+<li><a href='https://github.com/UDA-EJIE/udaLib/issues?q=milestone%3Av2.4.9' target='_blank'>Librería de utilidades: </a>Permitir la configuración de la pantalla de login de Xlnets</li>
 </ul>
-En la sección UDA v2.4.9 (16-Febrero-2017) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QVZhLUM0QlFxOGc&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
+En la sección UDA v2.4.9 (24-Febrero-2017) del archivo <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_QVZhLUM0QlFxOGc&export=download'>ChangeLog.txt</a> podrás encontrar la lista de cambios realizados en esta versión.<br>
+<br><br><br>
 
 <br>
 La <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_TnhuN2k1bElmTFU&export=download'>máquina virtual</a> configurada con el entorno completo sobre la versión 2.4.4 sigue estando disponible en caso de necesitar una maqueta de entorno completo.<br>
