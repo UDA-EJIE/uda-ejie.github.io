@@ -63,7 +63,7 @@ Se actualizan las siguientes <a href='https://drive.google.com/folderview?id=0B2
 <li>Componentes visuales: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_YWZtR0ZjcDlubFk&export=download'>Componentes RUP (v2.4.9)</a></li>
 <li>Eclipse IDE configurado con nuevas plantillas y nuevo plugin: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_SVF1a04xMmNWVE0&export=download'>Eclipse Helios UDA (v2.4.9)</a></li>
 <li>Librería de utilidades comunes: <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_djBUZ1NjTFdUSFE&export=download'>x38ShLibClasses-v2.4.9-RELEASE.jar</a></li>
-<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=&export=download'>Repositorio Maven (v2.4.9)</a></li>
+<li>Actualización con las nuevas versiones de la librería del <a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_MUR1am9SMGdDVms&export=download'>Repositorio Maven (v2.4.9)</a></li>
 <li><a href='https://docs.google.com/uc?authuser=0&id=0B2jWuJHnBpz_VGowMkNWa1NyeEU&export=download'>Documentación</a></li>
 </ul>
 En esta versión se han realizado las siguientes mejoras:<br>
