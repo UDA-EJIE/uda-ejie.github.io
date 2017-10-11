@@ -1,5 +1,3 @@
-_[English version](http://translate.google.es/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=https%3A%2F%2Fgithub.com%2Fsergisu%2Fcac%2Fwiki)_
-
 <h2><a id="user-content----utilidades-de-desarrollo-de-aplicaciones" class="anchor" href="#---utilidades-de-desarrollo-de-aplicaciones" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro.png" target="_blank"><img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro.png" style="max-width:100%;"></a>- Utilidades de Desarrollo de Aplicaciones</h2>
 
 <p><a href="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" target="_blank"><img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" style="max-width:100%;"></a> es el conjunto de <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes">utilidades, herramientas, librerías, plugins, guías, y recomendaciones funcionales y técnicas</a> que permiten acelerar el proceso de desarrollo de sistemas software con tecnología Java.<br>
@@ -27,7 +25,7 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 
 <h2>Novedades</h2>
 
-[Ver la portada del proyecto] (http://uda-ejie.github.io/)
+[Ver la portada del proyecto](http://uda-ejie.github.io/)
 
 <br>
 
