@@ -36,8 +36,6 @@ Si quieres estar al día de los cambios y actualizaciones que se generen en <img
 <ul>
 <li>activar el <a href="https://guides.github.com/activities/socialize/#watch-a-project" target="_blank">seguimiento de proyecto</a></li>
 <li>incluir un repositorio en tu <a href="https://guides.github.com/activities/socialize/#explore" target="_blank">lista de favoritos</a></li>
-<li>participar en nuestro <a href='http://groups.google.com/group/uda-ejie'>grupo</a> de <img src='https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png' />.</li>
-<li>ver el perfil <a href="https://plus.google.com/115407042298445383174" target="_blank">UDA en Google+</a>
 </li>
 
 </ul>
