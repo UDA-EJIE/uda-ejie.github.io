@@ -14,7 +14,6 @@ El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la pro
 <li>Ser adaptable y ampliable. Su arquitectura modular y desacoplada permitirá ampliar y/o sustituir las tecnologías utilizadas en cada una de las capas de responsabilidad que la componen.</li>
 <li>No imponer un modelo de uso único. En algún caso ya se proponen tecnologías alternativas para la misma capa de la arquitectura.</li>
 <li>Crear aplicaciones accesibles. Hasta donde sea posible, se cumplen con las recomendaciones <a href="http://www.w3.org/TR/WCAG20/" target="_blank">WCAG2.0</a> y <a href="http://www.w3.org/TR/wai-aria/" target="_blank">WAI-ARIA</a></li>
-<li>Integración con <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Hdiv">Hdiv</a> para mayor seguridad.</li>
 </ul>
 
 
