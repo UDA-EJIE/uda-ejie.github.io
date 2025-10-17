@@ -1,158 +1,279 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="es">
+<head>
     <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="UDA - Utilidades de Desarrollo de Aplicaciones Java. Framework para acelerar el desarrollo con componentes, plantillas y herramientas.">
+    <meta name="keywords" content="Java, desarrollo, framework, UDA, EJIE, componentes, plantillas">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="UDA by EJIE - Utilidades de Desarrollo de Aplicaciones">
+    <meta property="og:description" content="Framework Java para acelerar el desarrollo de aplicaciones">
+    <meta property="og:image" content="https://uda-ejie.github.io/images/uda-big-250.png">
+    <meta property="og:url" content="https://uda-ejie.github.io/">
+    
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">   
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <title>UDA by EJIE - Utilidades de Desarrollo de Aplicaciones</title>
+</head>
 
-    <title>Uda by EJIE</title>
-  </head>
+<body>
+    <!-- Skip link para accesibilidad -->
+    <a href="#main-content" class="skip-link" style="position: absolute; left: -9999px;">Saltar al contenido principal</a>
 
-  <body>
     <header>
-      <div class="inner">
-        <h1>
-            <a href="https://github.com/UDA-EJIE"><img src="https://uda-ejie.github.io/images/uda-big-250.png" style="max-width:100%;"></a>
-          </h1>
-        <h2>Utilidades de Desarrollo de Aplicaciones</h2>
-        <a href="https://github.com/UDA-EJIE" class="button"><small>View project on</small> GitHub</a>
-      </div>
+        <div class="inner">
+            <h1>
+                <a href="https://github.com/UDA-EJIE">
+                    <img src="https://uda-ejie.github.io/images/uda-big-250.png" 
+                         alt="UDA Logo" 
+                         style="max-width:100%;">
+                </a>
+            </h1>
+            <h2>Utilidades de Desarrollo de Aplicaciones</h2>
+            <a href="https://github.com/UDA-EJIE" class="button">
+                <small>View project on</small> GitHub
+            </a>
+        </div>
     </header>
 
     <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-            <p>
+        <div class="inner clearfix">
+            <main id="main-content">
+                <section id="main-content">
+                    <!-- Hero Section -->
+                    <div class="hero-section">
+                        <div class="hero-content">
+                            <p class="hero-description">
+                                <strong>UDA</strong> es el conjunto de 
+                                <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes" style="color: #f39c12;">
+                                    utilidades, herramientas, librerías, plugins, guías, y recomendaciones funcionales y técnicas
+                                </a> 
+                                que permiten acelerar el proceso de desarrollo de sistemas software con tecnología Java.
+                            </p>
+                            <div class="hero-actions">
+                                <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Instalar" class="btn btn-primary">
+                                    🚀 Empezar Ahora
+                                </a>
+                                <a href="http://www.ejie.eus/x21aAppWar/" class="btn btn-secondary" target="_blank">
+                                    🎮 Ver Demo
+                                </a>
+                            </div>
+                        </div>
+                    </div>
 
+                    <!-- Características principales -->
+                    <section id="caracteristicas">
+                        <h2>🎯 Objetivos y Características</h2>
+                        <p>
+                            El espíritu del proyecto es <strong>aumentar la productividad del desarrollador</strong>, 
+                            sin coartar su imaginación ni libertad para crear software. UDA ayuda en las tareas 
+                            repetitivas y de poco valor añadido, pero también persigue otros fines:
+                        </p>
+                        
+                        <div class="features-grid">
+                            <div class="feature-card">
+                                <h3>📚 Curva de Aprendizaje Mínima</h3>
+                                <p>No pretende ser un framework más, adopta y explota los ya consolidados y aprovecha el conocimiento compartido.</p>
+                            </div>
+                            <div class="feature-card">
+                                <h3>🌐 Patrones de Usabilidad Web</h3>
+                                <p>Aprovecha las mejoras de tecnologías <a href="https://es.wikipedia.org/wiki/Rich_Internet_Application" target="_blank">RIA</a> - <a href="https://es.wikipedia.org/wiki/AJAX" target="_blank">Ajax</a> para escenarios habituales.</p>
+                            </div>
+                            <div class="feature-card">
+                                <h3>⚡ Generación Automática de Interfaces</h3>
+                                <p>Crea automáticamente <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Patrones#14._Mantenimiento_con_formulario">interfaces de mantenimiento</a> (acciones <a href="https://es.wikipedia.org/wiki/CRUD" target="_blank">CRUD</a>) y componentes comunes.</p>
+                            </div>
+                            <div class="feature-card">
+                                <h3>🏗️ Generación de Código</h3>
+                                <p>Crea código base para aplicaciones con arquitectura en capas y paradigma <a href="https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador" target="_blank">MVC</a>.</p>
+                            </div>
+                            <div class="feature-card">
+                                <h3>🔧 Flexible y Configurable</h3>
+                                <p>Adapta el código generado a las necesidades organizacionales (estilos, estándares, etc.).</p>
+                            </div>
+                            <div class="feature-card">
+                                <h3>♿ Aplicaciones Accesibles</h3>
+                                <p>Cumple con recomendaciones <a href="http://www.w3.org/TR/WCAG20/" target="_blank">WCAG2.0</a> y <a href="http://www.w3.org/TR/wai-aria/" target="_blank">WAI-ARIA</a>.</p>
+                            </div>
+                        </div>
+                    </section>
 
-                <a href="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" target="_blank"><img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" style="max-width:100%;"></a> es el conjunto de <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes">utilidades, herramientas, librerías, plugins, guías, y recomendaciones funcionales y técnicas</a> que permiten acelerar el proceso de desarrollo de sistemas software con tecnología Java.<br>
-                <br>
-                El espíritu del proyecto, y por tanto su principal objetivo, es aumentar la productividad del desarrollador, sin coartar por ello su imaginación ni su libertad para crear software. <a href="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" target="_blank"><img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" style="max-width:100%;"></a> ayuda y colabora en las tareas repetitivas y de poco (o nulo) valor añadido, pero que sin embargo, son imprescindibles. Pero también persigue otros fines:<br>
-                <br>
-                <ul>
-                <li>Minimizar la curva de aprendizaje. No pretende ser un framework más, <a href="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" target="_blank"><img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" style="max-width:100%;"></a> adopta y explota los ya consolidados y de uso extendido y se aprovecha del conocimiento compartido por sus creadores y usuarios.</li>
-                <li>Proponer patrones de usabilidad web, que aprovechen las mejoras proporcionadas por las tecnologías <a href="https://es.wikipedia.org/wiki/Rich_Internet_Application" target="_blank">RIA</a> - <a href="https://es.wikipedia.org/wiki/AJAX" target="_blank">Ajax</a>. Se cubren los escenarios de uso más habituales para las aplicaciones web con dicha tecnología.</li>
-                <li>Generar  interfaces  de usuario. Crea automáticamente las <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Patrones#14._Mantenimiento_con_formulario">interfaces de mantenimiento de datos</a> (acciones <a href="https://es.wikipedia.org/wiki/CRUD" target="_blank">CRUD</a>), y otras de uso común (combos enlazados, fechas-horas, feedback, etc.)</li>
-                <li>Generar código. Crea el código imprescindible en toda aplicación con arquitectura en capas y bajo el paradigma <a href="https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador" target="_blank">MVC</a> (Modelo-Vista-Controlador).</li>
-                <li>Ser flexible y configurable. Permite adaptar el código generado por los asistentes a las necesidades de cada organización (libro de estilo, estándares de codificación, etc.)</li>
-                <li>Ser adaptable y ampliable. Su arquitectura modular y desacoplada permitirá ampliar y/o sustituir las tecnologías utilizadas en cada una de las capas de responsabilidad que la componen.</li>
-                <li>No imponer un modelo de uso único. En algún caso ya se proponen tecnologías alternativas para la misma capa de la arquitectura.</li>
-                <li>Crear aplicaciones accesibles. Hasta donde sea posible, se cumplen con las recomendaciones <a href="http://www.w3.org/TR/WCAG20/" target="_blank">WCAG2.0</a> y <a href="http://www.w3.org/TR/wai-aria/" target="_blank">WAI-ARIA</a></li>
-		</ul>
+                    <!-- Sección de Versiones mejorada -->
+                    <section id="versiones" class="version-section">
+                        <h2>📦 Versiones y Descargas</h2>
+                        
+                        <!-- UDA 6.3.0 -->
+                        <div class="version-card">
+                            <div class="version-header">
+                                <div>
+                                    <h3>🆕 UDA 6.3.0</h3>
+                                    <p><strong>Fecha:</strong> <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-6.x.x'>15 octubre 2024</a></p>
+                                </div>
+                                <span class="version-badge badge-current">ACTUAL</span>
+                            </div>
+                            <p>📁 <a href='https://drive.google.com/drive/folders/1HpefoKbCBW3ymCfb5BevpcIeEJyzIVEz' target='_blank'><strong>Carpeta de descargas v6.x.x</strong></a></p>
+                            <div class="download-list">
+                                <div class="download-item">
+                                    🔧 <a href='https://github.com/UDA-EJIE/udaPlugin/releases/tag/v6.3.0'>Asistente (v6.3.0)</a>
+                                </div>
+                                <div class="download-item">
+                                    📋 <a href='https://github.com/UDA-EJIE/udaTemplates/releases/tag/v6.3.0'>Plantillas (v6.3.0)</a>
+                                </div>
+                                <div class="download-item">
+                                    🎨 <a href='https://github.com/UDA-EJIE/udaRUP/releases/download/v6.3.0/rup-v6.3.0.zip'>Componentes RUP (v6.3.0)</a>
+                                </div>
+                                <div class="download-item">
+                                    📚 <a href='https://github.com/UDA-EJIE/udaLib/releases/tag/v6.3.0'>x38ShLibClasses-v6.3.0-RELEASE</a>
+                                </div>
+                                <div class="download-item">
+                                    💻 <a href='https://drive.google.com/file/d/1l5zNhnNiQqxthxCb_3MHtZsXLoPx9hif/view'>Eclipse 2024-06</a>
+                                </div>
+                            </div>
+                        </div>
 
-          
-				<h2>Novedades</h2>
+                        <!-- UDA 5.4.2 -->
+                        <div class="version-card maintenance">
+                            <div class="version-header">
+                                <div>
+                                    <h3>🔄 UDA 5.4.2</h3>
+                                    <p><strong>Fecha:</strong> <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-5.x.x'>21 enero 2025</a></p>
+                                </div>
+                                <span class="version-badge badge-maintenance">MANTENIMIENTO</span>
+                            </div>
+                            <p>📁 <a href='https://drive.google.com/drive/folders/1GVDxDsi8dkbxrfP35XC5BHJYk_QMFsrJ' target='_blank'><strong>Carpeta de descargas v5.x.x</strong></a></p>
+                            <div class="download-list">
+                                <div class="download-item">
+                                    📋 <a href='https://github.com/UDA-EJIE/udaTemplates/releases/download/v5.4.2/templates-v5.4.2.zip'>Plantillas (v5.4.2)</a>
+                                </div>
+                                <div class="download-item">
+                                    🎨 <a href='https://github.com/UDA-EJIE/udaRUP/releases/download/v5.4.2/rup-v5.4.2.zip'>Componentes RUP (v5.4.2)</a>
+                                </div>
+                                <div class="download-item">
+                                    📚 <a href='https://github.com/UDA-EJIE/udaLib/releases/tag/v5.4.2'>x38ShLibClasses-v5.4.2-RELEASE</a>
+                                </div>
+                                <div class="download-item">
+                                    🔒 <a href='https://github.com/UDA-EJIE/udaHdiv/releases/tag/v5.2.0'>hdiv-v5.2.0-RELEASE</a>
+                                </div>
+                            </div>
+                        </div>
 
-				<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-6.x.x'>15-octubre-2025</a>:</b>
-				<h4>UDA 6.3.0</h4>
-				Se actualizan las siguientes <a href='https://drive.google.com/drive/folders/1HpefoKbCBW3ymCfb5BevpcIeEJyzIVEz' target='_blank'>descargas</a>:<br>
-				<ul>
-				<li>Asistente de generación de código: <a href='https://github.com/UDA-EJIE/udaPlugin/releases/tag/v6.3.0'>Asistente (v6.3.0)</a></li>
-				<li>Plantillas de generación de código: <a href='https://github.com/UDA-EJIE/udaTemplates/releases/tag/v6.3.0'>Plantillas (v6.3.0)</a></li>
-				<li>Componentes visuales: <a href='https://github.com/UDA-EJIE/udaRUP/releases/download/v6.3.0/rup-v6.3.0.zip'>Componentes RUP (v6.3.0)</a></li>
-				<li>Librería de utilidades comunes: <a href='https://github.com/UDA-EJIE/udaLib/releases/tag/v6.3.0'>x38ShLibClasses-v6.3.0-RELEASE</a></li>
-				<li>Entorno de desarrollo: <a href='https://drive.google.com/file/d/1l5zNhnNiQqxthxCb_3MHtZsXLoPx9hif/view'>Eclipse 2024-06</a></li>
-				</ul>
-				
-				<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-5.x.x'>21-enero-2025</a>:</b>
-				<h4>UDA 5.4.2</h4>
-				Se actualizan las siguientes <a href='https://drive.google.com/drive/folders/1GVDxDsi8dkbxrfP35XC5BHJYk_QMFsrJ' target='_blank'>descargas</a>:<br>
-				<ul>
-				<li>Plantillas de generación de código: <a href='https://github.com/UDA-EJIE/udaTemplates/releases/download/v5.4.2/templates-v5.4.2.zip'>Plantillas (v5.4.2)</a></li>
-				<li>Componentes visuales: <a href='https://github.com/UDA-EJIE/udaRUP/releases/download/v5.4.2/rup-v5.4.2.zip'>Componentes RUP (v5.4.2)</a></li>
-				<li>Librería de utilidades comunes: <a href='https://github.com/UDA-EJIE/udaLib/releases/tag/v5.4.2'>x38ShLibClasses-v5.4.2-RELEASE</a></li>
-				<li>Librería de Hdiv: <a href='https://github.com/UDA-EJIE/udaHdiv/releases/tag/v5.2.0'>hdiv-v5.2.0-RELEASE</a></li>
-				</ul>
-				
-				<b><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-4.x.x'>30-septiembre-2025</a>:</b>
-				<h4>UDA 4.5.4</h4>
-				Se actualizan las siguientes <a href='https://drive.google.com/drive/folders/1lGMFN6CiVUOvlN4Vvfq6c6bDPPAjktXF' target='_blank'>descargas</a>:<br>
-				<ul>
-				<li>Plantillas de generación de código: <a href='https://github.com/UDA-EJIE/udaTemplates/releases/download/v4.5.4/templates-v4.5.4.zip'>Plantillas (v4.5.4)</a></li>
-				<li>Componentes visuales: <a href='https://github.com/UDA-EJIE/udaRUP/releases/download/v4.5.4/rup-v4.5.4.zip'>Componentes RUP (v4.5.4)</a></li>
-				<li>Librería de utilidades comunes: <a href='https://github.com/UDA-EJIE/udaLib/releases/tag/v4.5.4'>x38ShLibClasses-v4.5.4-RELEASE</a></li>
-				<li>Entorno de desarrollo: <a href='https://drive.google.com/file/d/1VL0p1olViNZ2oyhDMask3p7lmj2sT3TC/view'>Eclipse 2020-03 (con plugin v4.5.0 y plantillas v4.5.4)</a></li>
-				</ul>
+                        <!-- UDA 4.5.4 -->
+                        <div class="version-card legacy">
+                            <div class="version-header">
+                                <div>
+                                    <h3>🗂️ UDA 4.5.4</h3>
+                                    <p><strong>Fecha:</strong> <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-4.x.x'>30 septiembre 2025</a></p>
+                                </div>
+                                <span class="version-badge badge-legacy">LEGACY</span>
+                            </div>
+                            <p>📁 <a href='https://drive.google.com/drive/folders/1lGMFN6CiVUOvlN4Vvfq6c6bDPPAjktXF' target='_blank'><strong>Carpeta de descargas v4.x.x</strong></a></p>
+                            <div class="download-list">
+                                <div class="download-item">
+                                    📋 <a href='https://github.com/UDA-EJIE/udaTemplates/releases/download/v4.5.4/templates-v4.5.4.zip'>Plantillas (v4.5.4)</a>
+                                </div>
+                                <div class="download-item">
+                                    🎨 <a href='https://github.com/UDA-EJIE/udaRUP/releases/download/v4.5.4/rup-v4.5.4.zip'>Componentes RUP (v4.5.4)</a>
+                                </div>
+                                <div class="download-item">
+                                    📚 <a href='https://github.com/UDA-EJIE/udaLib/releases/tag/v4.5.4'>x38ShLibClasses-v4.5.4-RELEASE</a>
+                                </div>
+                                <div class="download-item">
+                                    💻 <a href='https://drive.google.com/file/d/1VL0p1olViNZ2oyhDMask3p7lmj2sT3TC/view'>Eclipse 2020-03 (con plugin v4.5.0 y plantillas v4.5.4)</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
 
+                    <!-- Enlaces rápidos mejorados -->
+                    <section id="enlaces-rapidos">
+                        <div class="quick-links">
+                            <div class="quick-link-card">
+                                <h3>🎬 Ver en Funcionamiento</h3>
+                                <ul style="text-align: left;">
+                                    <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">📺 Videos demostrativos</a></li>
+                                    <li><a href='http://www.ejie.eus/x21aAppWar/' target="_blank">🎮 Aplicación de demostración</a></li>
+                                </ul>
+                            </div>
 
-                <h2>verlo en funcionamiento</h2>
-                <ul>
-                <li>los <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">videos</a></li>
-                <li>la <a href='http://www.ejie.eus/x21aAppWar/' target="_blank">aplicación de demostración</a></li>
-                </ul>
+                            <div class="quick-link-card">
+                                <h3>📚 Profundizar</h3>
+                                <ul style="text-align: left;">
+                                    <li><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Arquitectura'>🏗️ Guías y recomendaciones técnicas</a></li>
+                                    <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes">🧩 Utilidades y herramientas</a></li>
+                                    <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Patrones">🎨 Patrones de usabilidad web</a></li>
+                                    <li><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Documentación'>📖 Documentación completa</a></li>
+                                </ul>
+                            </div>
 
-                <h2>profundizar</h2>
-                <ul>
-                <li>las <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Arquitectura'>guías, y recomendaciones funcionales y técnicas</a></li>
-                <li>las <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes">utilidades, herramientas, librerías, plugins</a></li>
-                <li>los <a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Patrones"> patrones de usabilidad web<a></li>
-                <li>la <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Documentación'>documentación</a></li>
-                </ul>
+                            <div class="quick-link-card">
+                                <h3>🚀 Pasar a la Acción</h3>
+                                <ul style="text-align: left;">
+                                    <li><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Instalar'>⚡ Instalar desde cero</a></li>
+                                    <li><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-6.x.x'>🔄 Actualizar versión existente</a></li>
+                                    <li><a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Versiones-6.x.x'>📋 Ver todas las versiones</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
 
-                <h2>pasar a la acción</h2>
-                <ul>
-                <li>partiendo de cero, consulta cómo <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Instalar'>Instalar</a></li>
-                <li>si ya has instalado alguna versión anteriormente, puedes ver cómo <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-6.x.x'>Actualizar</a> desde tu <a href='https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Versiones-6.x.x'>versión</a> </li>
-                </ul>
+                    <!-- Licencia -->
+                    <section id="licencia" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee;">
+                        <p>
+                            <strong>📄 Licencia:</strong> 
+                            Licensed under European Union Public Licence - EUPL v.1.1 (2007)<br>
+                            <a href="http://ec.europa.eu/idabc/eupl.html">http://ec.europa.eu/idabc/eupl.html</a>
+                        </p>
+                    </section>
+                </section>
+            </main>
 
+            <aside id="sidebar">
+                <a href="https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list" 
+                   class="button" target="_blank">
+                    <small>Download</small>
+                    latest version
+                </a>
+                
+                <nav aria-label="Navegación principal">
+                    <ul>
+                        <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Home">🏠 Home</a></li>
+                        <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes">🧩 Componentes</a>
+                            <ul>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Arquitectura">🏗️ Arquitectura conceptual</a></li>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Patrones">🎨 Patrones de interacción web</a></li>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Documentación">📖 Documentación</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Versiones-6.x.x">📦 Versiones</a>
+                            <ul>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Instalar">⚡ Instalar</a></li>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-6.x.x">🔄 Actualizar</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Documentación">📚 Documentación</a>
+                            <ul>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Formación">🎓 Formación</a></li>
+                                <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">📺 Videos</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
 
+                <p class="repo-owner">
+                    <img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" 
+                         alt="UDA mini logo" style="max-width:100%;"> 
+                    is maintained by <a href="https://github.com/UDA-EJIE">UDA-EJIE</a>.
+                </p>
 
-            </p>
-
-
-<p>Licensed under European Union Public Licence - EUPL v.1.1 (2007)
-<a href="http://ec.europa.eu/idabc/eupl.html">http://ec.europa.eu/idabc/eupl.html</a></p>
-        </section>
-
-        <aside id="sidebar">
-          <a href="https://drive.google.com/folderview?id=0B2jWuJHnBpz_VFVLU2ZoREQ2Q1E&usp=sharing#list" class="button" target="_blank">
-            <small>Download</small>
-            latest version
-          </a>
-        <p>
-            <ul>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Home">Home</a></li>
-
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Componentes">Componentes</a>
-            <ul>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Arquitectura">Arquitectura conceptual</a></li>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Patrones">Patrones de interacción web</a></li>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Documentación">Documentación</a></li>
-            </ul>
-            </li>
-
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Versiones-6.x.x">Versiones</a>
-            <ul>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Instalar">Instalar</a></li>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Actualizar-6.x.x">Actualizar</a></li>
-            </ul>
-            </li>
-
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Documentación">Documentación</a>
-            <ul>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Formación">Formación</a></li>
-            <li><a href="https://github.com/UDA-EJIE/uda-ejie.github.io/wiki/Videos">Videos</a></li>
-            </ul>
-            </li>
-
-            </ul>
-        </p>
-
-          <p class="repo-owner"><a href="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" target="_blank"><img src="https://uda-ejie.github.io/images/imgwikis/uda-mini-micro2.png" style="max-width:100%;"></a> is maintained by <a href="https://github.com/UDA-EJIE">UDA-EJIE</a>.</p>
-
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
+                <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> 
+                   using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+            </aside>
+        </div>
     </div>
-
-
-  </body>
+</body>
 </html>
